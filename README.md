@@ -1,0 +1,2 @@
+# zinorm
+Zinorm function
